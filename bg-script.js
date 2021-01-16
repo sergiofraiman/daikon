@@ -26,7 +26,7 @@ function Particles(){
   this.maxOpacity = .5;
   //particle speed min/max
   this.minSpeed = .05;
-  this.maxSpeed = .5;
+  this.maxSpeed = 1;
   //frames per second 
   this.fps = 60;
   //number of particles
